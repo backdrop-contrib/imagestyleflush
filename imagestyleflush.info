@@ -1,5 +1,0 @@
-name = Image style flush
-description = Adds the ability to flush image styles.
-package = Media
-core = 7.x
-configure = admin/config/media/image-styles
